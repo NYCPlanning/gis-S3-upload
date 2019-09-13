@@ -6,18 +6,18 @@ This script is used for migrating updated internal DCP data set zips to one of D
 
 
 * <b>MapPLUTO</b>
-* LPC data sets (<b>Historic Districts</b>, <b>Individual Landmarks</b>, <b>Scenic Landmarks</b>)
-* <b>Coastal Zone Boundary (CZB)</b>
-* <b>Lower Density Growth Management Areas (LDGMA)</b>
-* <b>Upland Waterfront Area</b>
-* Digital Tax Map/DTM data sets (<b>Block Centroids</b>, <b>Tax Lot Polygons</b>, <b>Shoreline Polygons</b>, <b>Condos</b>)
-* <b>Mandatory Inclusionary Housing (MIH)</b>
-* <b>Environmental Designations (E-Designations)</b>
-* <b>Inclusionary Housing Designated Areas (IDHA)</b>
-* <b>Waterfront Access Plan (WAP)</b>
-* <b>FRESH Food Stores Zoning Boundaries (FRESH)</b>
-* <b>Designated Areas in Manufacturing Districts (Appendix J)</b>
 * <b>Transit Zones</b>
+* <b>Upland Waterfront Area</b>
+* <b>Coastal Zone Boundary (CZB)</b>
+* <b>Waterfront Access Plan (WAP)</b>
+* <b>Mandatory Inclusionary Housing (MIH)</b> 
+* <b>Environmental Designations (E-Designations)</b>
+* <b>FRESH Food Stores Zoning Boundaries (FRESH)</b>
+* <b>Inclusionary Housing Designated Areas (IDHA)</b>
+* <b>Lower Density Growth Management Areas (LDGMA)</b>
+* <b>Designated Areas in Manufacturing Districts (Appendix J)</b>
+* LPC data sets (<b>Historic Districts</b>, <b>Individual Landmarks</b>, <b>Scenic Landmarks</b>)
+* Digital Tax Map/DTM data sets (<b>Block Centroids</b>, <b>Tax Lot Polygons</b>, <b>Shoreline Polygons</b>, <b>Condos</b>)
 * Zoning data sets (<b>Commercial Overlays</b>, <b>Limited Height Districts</b>, <b>Special Purpose Districts</b>, <b>Special Purpose Sub-districts</b>, <b>Zoning Districts</b>, <b>Zoning Map Amendments</b>, <b>Sidewalk Cafe Regulations</b>)
 
 
