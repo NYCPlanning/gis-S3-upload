@@ -430,14 +430,9 @@ try:
             f_ext = f.split('.', 1)[-1]
             f_version = f.split('_')[-1].split('.', 1)[0]
             print("Zipping: {}, {}".format(data_title, f_ext))
-            if len(f_version) > 7:
-                f_version = f_version.replace('_', '')
-                f_version = f_version.replace('v', '')
-                dataset_dictionary[data_title] = f_version
-            else:
-                f_version = f_version.replace('_', '')
-                f_version = f_version.replace('v', '')
-                dataset_dictionary[data_title] = f_version
+            f_version = f_version.replace('_', '')
+            f_version = f_version.replace('v', '')
+            dataset_dictionary[data_title] = f_version
 
         else:
             data_title = f.split('_', 1)[0]
